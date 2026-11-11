@@ -15,18 +15,20 @@
     Discord: https://discord.gg/ftgs-development-hub-1300692552005189632
     License: MIT
     
-                                                                                                      
-▄▄▄   ▄▄▄   ▄▄▄▄   ▄▄▄▄▄▄▄▄ ▄▄▄   ▄▄▄               ▄▄▄▄▄▄▄ ▄▄▄▄▄▄▄▄▄ ▄▄▄  ▄▄▄ ▄▄▄▄▄▄   ▄▄▄▄▄   ▄▄▄▄▄    ▄▄▄▄▄▄▄ 
-███   ███ ▄██████▄ ████████ ████▄████              █████▀▀▀ ▀▀▀███▀▀▀ ███  ███ ███▀▀██▄  ███  ▄███████▄ █████▀▀▀ 
-█████████ ███  ███     ▄██▀  ▀█████▀              ▀████▄     ███    ███  ███ ███  ███  ███  ███   ███  ▀████▄  
-███▀▀▀███ ███▄▄███    ███   ▄███████▄                 ▀████    ███    ███▄▄███ ███  ███  ███  ███▄▄▄███    ▀████ 
-███   ███  ▀████▀     ███   ███▀ ▀███               ███████▀    ███    ▀██████▀ ██████▀  ▄███▄  ▀█████▀  ███████▀ 
-                                                                                                      
-                                                                                                      
-    v3.0.2  |  2026-07-16  |  Roblox Script
+██╗░░██╗░█████╗░███████╗██╗░░██╗  ██╗░░██╗  ░██████╗████████╗██╗░░░██╗██████╗░██╗░█████╗░░██████╗
+██║░░██║██╔══██╗╚════██║╚██╗██╔╝  ╚██╗██╔╝  ██╔════╝╚══██╔══╝██║░░░██║██╔══██╗██║██╔══██╗██╔════╝
+███████║██║░░██║░░░░██╔╝░╚███╔╝░  ░╚███╔╝░  ╚█████╗░░░░██║░░░██║░░░██║██║░░██║██║██║░░██║╚█████╗░
+██╔══██║██║░░██║░░░██╔╝░░██╔██╗░  ░██╔██╗░  ░╚═══██╗░░░██║░░░██║░░░██║██║░░██║██║██║░░██║░╚═══██╗
+██║░░██║╚█████╔╝░░██╔╝░░██╔╝╚██╗  ██╔╝╚██╗  ██████╔╝░░░██║░░░╚██████╔╝██████╔╝██║╚█████╔╝██████╔╝
+╚═╝░░╚═╝░╚════╝░░░╚═╝░░░╚═╝░░╚═╝  ╚═╝░░╚═╝  ╚═════╝░░░░╚═╝░░░░╚═════╝░╚═════╝░╚═╝░╚════╝░╚═════╝░
+
+    v3.0.2  |  2026-10-10  |  Roblox Script
     
-    Author: H07X Studio
+    Author: h07x Studio
     Github: https://github.com/h07x
+    Discord: https://discord.gg/tQ4mZstsxA
+    Website: https://h07x-new.vercel.app/
+    YouTube: mk.h07x
     License: ND ( No Derivatives )
     
      _____ ____  
@@ -38,8 +40,9 @@
               
     v1  |  2025-07-06  | Code Obfuscator & Optimizer
     
-    Author: dr_breen
-    Github: https://github.com/7Duser/ironbrew1
+    Author: 33ms
+    Github: idk
+    Discord: discord.gg/25ms
     License: ND ( No Derivatives )
     
      █████╗ ██╗   ██╗████████╗██╗  ██╗  ██████╗
@@ -49,19 +52,11 @@
     ██║  ██║╚██████╔╝   ██║   ██║  ██║  ██████╔╝
     ╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝  ╚═════╝
 
-    v3.4.1  |  2025-XX-XX  | Private Whitelist Service
+    v3.4.1  |  2026/09/10  | Free Whitelist Service
 
-    Author: H07X
-    License: ND ( No Derivatives )
-    
-    ▒█▀▀█ ░█▀▀█ ▒█▄░▒█ ▒█▀▀▄ ░█▀▀█ 　 ▒█▀▀▄ ▒█▀▀▀ ▒█░░▒█ ▒█▀▀▀ ▒█░░░ ▒█▀▀▀█ ▒█▀▀█ ▒█▀▄▀█ ▒█▀▀▀ ▒█▄░▒█ ▀▀█▀▀ 
-    ▒█▄▄█ ▒█▄▄█ ▒█▒█▒█ ▒█░▒█ ▒█▄▄█ 　 ▒█░▒█ ▒█▀▀▀ ░▒█▒█░ ▒█▀▀▀ ▒█░░░ ▒█░░▒█ ▒█▄▄█ ▒█▒█▒█ ▒█▀▀▀ ▒█▒█▒█ ░▒█░░ 
-    ▒█░░░ ▒█░▒█ ▒█░░▀█ ▒█▄▄▀ ▒█░▒█ 　 ▒█▄▄▀ ▒█▄▄▄ ░░▀▄▀░ ▒█▄▄▄ ▒█▄▄█ ▒█▄▄▄█ ▒█░░░ ▒█░░▒█ ▒█▄▄▄ ▒█░░▀█ ░▒█░░
-
-    v3  |  2025-03-16  | Public Whitelist Service
-
-    Author: Pelican Development
+    Author: encryptedscripts
     Official Site: https://pandadevelopment.net/
+    License: ND ( No Derivatives )
 ]]
 
 if not game:IsLoaded() then game.Loaded:Wait(); end;
@@ -77,7 +72,7 @@ local Kicks, KickReason, GG = {
     ["H07X_IDP"]  = "[H07X Studio] : You are in public server but you set the script to auto leave public servers.";
     ["H07X_SolD"] = "[H07X Studio] : Compatibility with Solara has been removed.\n\n<font size=\"14\">( You can get a free executor at projectreal.gg )</font>",
     ["H07X_INFO"] = "[H07X Studio] : getinfo not found. Please change executor.",
-    ["H07X_IDXO"] = "Your executor is '<b>Xeno</b>'. Imagine using a virus.\n\nAnyway, This executor isn't supported.\n\n<font size=\"14\">Visit ttjy-studio.vercel.app to see the list of supported executors.</font>",
+    ["H07X_IDXO"] = "Your executor is '<b>Xeno</b>'. Imagine using a virus.\n\nAnyway, This executor isn't supported.\n\n<font size=\"14\">Visit https://h07x-new.vercel.app/ to see the list of supported executors.</font>",
     ["TheMimicCOUNT9R1"] = "[H07X Studio] : The Mimic Script has been temporary shutdown for Hall Of Fame update. \n\n<font size=\"14\">Visit our discord server for more info.</font>"
 }, nil, (getgenv and getgenv()) or _G or shared;
 
@@ -101,7 +96,7 @@ game:GetService("CoreGui").RobloxPromptGui.promptOverlay.ChildAdded:Connect(func
         Cloned.Name = "DiscordInvite"; Cloned.ButtonText.Text = "Discord Invite";
         ButtonLayout.CellSize = UDim2.new(0,150,0,36); Cloned.Parent = ButtonArea;
         Cloned.MouseButton1Click:Connect(function()
-            return setclipboard and setclipboard("https://discord.gg/G7CX2rD9p2");
+            return setclipboard and setclipboard("https://discord.gg/tQ4mZstsxA");
         end); task.delay(0.2, function()
             for i,v in pairs(Kicks) do
                 if string.find(ErrorMessage.Text, i) then
@@ -186,10 +181,10 @@ elseif GG.InKey then
     return GG.InKey();
 end;
 
-local FOLBASE = "H07XStudio";
-local EULBASE = "HxYssEula.txt";
-local GITBASE = "https://raw.githubusercontent.com/h07x/h07xLibrary-/refs/heads/main/H07X.lua";
-local ASSETBASE = "https://github.com/h07x/h07xLibrary-/raw/refs/heads/main/Assets/";
+local FOLBASE = "TTJYStudio";
+local EULBASE = "TJYsEula.txt";
+local GITBASE = "https://github.com/h07x/h07xLibrary-/raw/refs/heads/main";
+local ASSETBASE = "https://raw.githubusercontent.com/h07x/h07xLibrary-/refs/heads/main/Assets/";
 
 local versionstorage, AssetStorage = {}, {};
 local emptyfunction = function() return; end;
@@ -274,7 +269,7 @@ ScriptCache.userIdentify.unc_infos = {
 };
 
 local LoadFromVControl = nil; LoadFromVControl = function(srcName, fileName, selectversion, check)
-    local cacheFile = "H07XStudio/" .. tostring(fileName);
+    local cacheFile = "TTJYStudio/" .. tostring(fileName);
     if LoaderSettings.AllowCache then
         if isfile(cacheFile) then
             local success, func = pcall(function()
@@ -369,8 +364,8 @@ if not LoaderSettings.BadNetwork then
     end;
 end;
 
-local hx.pngLogo = if not LoaderSettings.BadNetwork and isfile(FOLBASE.."/hx.pngStudio.png") then
-    getcustomasset(FOLBASE.."/hx.pngStudio.png")
+local TTJYLogo = if not LoaderSettings.BadNetwork and isfile(FOLBASE.."/hx.png") then
+    getcustomasset(FOLBASE.."/hx.png")
 else "";
 
 do (function()
@@ -392,7 +387,7 @@ do (function()
     local Bar = Instancen("Frame", BarContainer);
     local BarGlow = Instancen("UIStroke", Bar);
 
-    ScreenGui.Name = "H07X_Startup";
+    ScreenGui.Name = "TTJY_Startup";
     ScreenGui.DisplayOrder = 9999;
     ScreenGui.IgnoreGuiInset = true;
     MainFrame.Name = "MainFrame";
@@ -410,7 +405,7 @@ do (function()
     Logo.AnchorPoint = VEC05;
     Logo.Position = Dim2(0.5, 0, 0.7, 0);
     Logo.BackgroundTransparency = 1;
-    Logo.Image = H07XLogo;
+    Logo.Image = TTJYLogo;
 
     Cross.Name = "Cross";
     Cross.Size = Dim2(0, 50, 0, 50);
@@ -418,7 +413,7 @@ do (function()
     Cross.Position = Dim2(0.5, 0, 0.9, 0);
     Cross.BackgroundTransparency = 1;
     Cross.Font = Enum.Font.GothamBold;
-    Cross.Text = "H";
+    Cross.Text = "X";
     Cross.TextColor3 = WHITE;
     Cross.TextSize = 0;
     Cross.TextTransparency = 1;
@@ -440,7 +435,7 @@ do (function()
     RightText.Position = Dim2(0.5, 0, 0.7, 0);
     RightText.BackgroundTransparency = 1;
     RightText.Font = Enum.Font.GothamBold;
-    RightText.Text = "mk.h07x ESTUDIOS";
+    RightText.Text = "mk.h07X";
     RightText.TextColor3 = WHITE;
     RightText.TextSize = 24;
     RightText.TextTransparency = 1;
@@ -1148,7 +1143,7 @@ AssetStorage.CirclePackage = function()
     local Dim2Off = UDim2.fromOffset;
     local Circle = {}; Circle.__index = Circle;
     local gui = Instancen("ScreenGui", gethui());
-    gui.Name = "H07X_Hub_Circle";
+    gui.Name = "TTJY_Hub_Circle";
     gui.IgnoreGuiInset = true;
     function Circle:new(radius)
         local self = setmetatable({}, Circle)
@@ -1275,17 +1270,6 @@ AssetStorage.QueuePack = function()
 end;
 
 ------------- KeyUI -------------
-if not gethwid then
-    gethwid = function()
-        local ok, id = pcall(function()
-            return game:GetService("RbxAnalyticsService"):GetClientId()
-        end)
-        if ok and id and id ~= "" then
-            return id
-        end
-        return tostring(game.Players.LocalPlayer.UserId)
-    end
-end
 
 AssetStorage.KeyPackage = function()
     local NICEPARENT = gethui();
@@ -1970,21 +1954,20 @@ AssetStorage.KeyPackage = function()
             end); G2L["11"].Activated:Connect(function()
                 G2L["1"]:Destroy(); G2L["1"] = nil;
                 G2L = nil;
-                -- BOTÓN LINKVERTISE (Izquierda)
-                return setc("https://pandadevelopment.net/getkey?hwid="..gethwid().."&service=h07x%2Fh07xstudios");
+                return setc("https://pandadevelopment.net/getkey/ttjyhub?hwid="..gethwid());
             end); G2L["1a"].Activated:Connect(function()
                 G2L["1"]:Destroy(); G2L["1"] = nil;
                 G2L = nil;
-                -- BOTÓN WORK.INK (Derecha)
-                return setc("https://pandadevelopment.net/getkey?hwid="..gethwid().."&service=h07x%2Fh07xstudios");
+                return setc("https://pandadevelopment.net/getkey/ttjyhub?hwid="..gethwid());
             end); G2L["31"].Activated:Connect(function()
                 G2L["1"]:Destroy(); G2L["1"] = nil;
                 G2L = nil;
-                -- BOTÓN CANCEL (Abajo a la izquierda)
-                return setc("https://discord.gg/tQ4mZstsxA"); -- <-- Cambiá esto por tu Discord
+                return setc("https://ttjy-studio.vercel.app/bugs");
             end); G2L["3a"].Activated:Connect(function()
                 G2L["1"]:Destroy(); G2L["1"] = nil;
                 G2L = nil;
+                return setc("https://ttjy-studio.vercel.app/scripts");
+            end);
         
             return G2L;
         end;
@@ -2666,7 +2649,7 @@ AssetStorage.LoadUILib = function()
                 local IconModule = {  
                     IconsType = "lucide", New = nil, IconThemeTag = nil,
                     Icons = (LoaderSettings.BadNetwork and {}) or {  
-                        ["lucide"] = LoadFromVControl("https://raw.githubusercontent.com/h07x/h07xLibrary-/refs/heads/main/Assets/lucide.lua.txt", "lucide.lua.txt", "2")(),
+                        ["lucide"] = LoadFromVControl("https://raw.githubusercontent.com/h07x/h07xLibrary-/refs/heads/main/Assets/lucide.lua", "lucide.lua", "2")(),
                         --["solar"] = loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Footagesus/Icons/refs/heads/main/solar/dist/Icons.lua"))(),  
                         --["craft"] = loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Footagesus/Icons/refs/heads/main/craft/dist/Icons.lua"))(),  
                         ["sfsymbols"] = LoadFromVControl("https://raw.githubusercontent.com/h07x/h07xLibrary-/refs/heads/main/Assets/sfsymbols.lua", "sfsymbols.lua", "2")(),  
@@ -3789,7 +3772,7 @@ AssetStorage.LoadUILib = function()
                 });
                 
                 local Part = Instancen('Part', Workspace)
-                Part.Name = "H07X_AcrylicPart"
+                Part.Name = "TTJY_AcrylicPart"
                 local DepthOfField = Instancen('DepthOfFieldEffect', Lighting)
                 local SurfaceGui = Instancen('SurfaceGui', Part)
                 local BlockMesh = Instancen("BlockMesh")
@@ -5058,8 +5041,8 @@ AssetStorage.LoadUILib = function()
                     am = aa.Image(
                         ag.Image, ag.Title, af.Window.NewElements and ag.UICorner - 11 or (ag.UICorner - 4),
                         af.Window.Folder, "Image", ag.IconThemed, not ag.Color and true or false, "ElementIcon"
-                    ); if ag.Image == "H07XStudio" then
-                        am.ImageLabel.Image = H07XLogo;
+                    ); if ag.Image == "TTJYStudio" then
+                        am.ImageLabel.Image = TTJYLogo;
                     end; if typeof(ag.Color) == "string" then
                         am.ImageLabel.ImageColor3 = GetTextColorForHSB(fromHex(aa.Colors[ag.Color]));
                     elseif typeof(ag.Color) == "Color3" then
@@ -11201,7 +11184,7 @@ AssetStorage.LoadUILib = function()
                 ); local clo = as.UIElements.Main.Main.Topbar.Right:Clone();
                 clo.Frame:Destroy(); clo.Position = Dim2(0,10,0.5,0)
                 clo.Parent = as.UIElements.Main.Main.Topbar;
-                clo.Frame.ImageButton.Image = H07XLogo;
+                clo.Frame.ImageButton.Image = TTJYLogo;
                 clo.Frame.ImageButton.ImageColor3 = fromRGB(255,255,255);
                 clo.Frame.ImageButton.Size = Dim2(1.5,0,1.5,0);
                 as.UIElements.SideBar.Parent.Name = "Sidebar";
@@ -11880,19 +11863,19 @@ AssetStorage.LoadUILib = function()
     return aa
 end;
 AssetStorage.IntroLib = function()
-    local HxYssEula = {TopLeftTUT = false}; if isfile(EULBASE) then
+    local TJYsEula = {TopLeftTUT = false}; if isfile(EULBASE) then
         local decoded = HttpService:JSONDecode(readfile(EULBASE));
         for k, v in pairs(decoded) do
-            HxYssEula[k] = v;
+            TJYsEula[k] = v;
         end;
     end; local function SaveEula()
-        writefile(EULBASE, HttpService:JSONEncode(HxYssEula));
+        writefile(EULBASE, HttpService:JSONEncode(TJYsEula));
     end; local function StackPop(wind, tutorials, index)
         index = index or 1; if index > #tutorials then return; end;
         local tut = tutorials[index]; 
         if type(tut) ~= "table" or not tut.Key then
             return StackPop(wind, tutorials, index + 1);
-        end; if not HxYssEula[tut.Key] then
+        end; if not TJYsEula[tut.Key] then
             wind:Popup({
                 Title = tut.Title,
                 Icon = tut.Icon,
@@ -11902,7 +11885,7 @@ AssetStorage.IntroLib = function()
                         StackPop(wind, tutorials, index + 1);
                     end},
                     {Title = "Don't show again", Variant = "Tertiary", Callback = function()
-                        HxYssEula[tut.Key] = true;
+                        TJYsEula[tut.Key] = true;
                         SaveEula();
                         StackPop(wind, tutorials, index + 1);
                     end},
@@ -11956,7 +11939,7 @@ AssetStorage.IntroLib = function()
             tab:Paragraph({Title="Announcement", Desc="Updated: [FPS] OneTap V3.03 is now out!", Color="Green"});
             tab:Paragraph({Title="Announcement", Desc="Updated: Streamer Mode is out! Check 'Core Settings'.", Color="Green"}); tab:Space();
             if not LoaderSettings.BadNetwork then
-                local DiscordAPI = "https://discord.com/api/v10/invites/" .. "qeDJUKBX4K" .. "?with_counts=true&with_expiration=true";
+                local DiscordAPI = "https://discord.com/api/v10/invites/" .. "tQ4mZstsxA" .. "?with_counts=true&with_expiration=true";
                 local Response = (function()
                     local res = nil; pcall(function()
                         res = HttpService:JSONDecode(Request({
@@ -11984,9 +11967,9 @@ AssetStorage.IntroLib = function()
             end; tab:Space(); tab:Divider(); tab:Space();
             tab:Paragraph({Title="H07X", Desc="The owner of H07X Studio & Main Developer."});
             tab:Paragraph({Title="Wind UI", Desc="This script uses Wind UI Library created by Footagesus."});
-            tab:Paragraph({Title="IB1", Desc="This script uses IB1 which is a private obfuscator made by dr_breen."});
-            tab:Paragraph({Title="Auth3", Desc="This script uses Authentication3 as a private whitelist service."});
-            tab:Paragraph({Title="Pelican Development", Desc="This script also use a public whitelist service made by Pelican Development."});
+            tab:Paragraph({Title="25ms", Desc="This script uses MoonVeil v2 which is a free obfuscator made by 33ms."});
+            tab:Paragraph({Title="Auth3", Desc="This script uses Authentication3 as a free whitelist service."});
+            tab:Paragraph({Title="Panda Development", Desc="This script also use a public whitelist service made by Panda Development."});
             tab:Paragraph({Title="Inject.today", Desc="This script is supported by Inject.today"});
         end,
     };
@@ -12246,7 +12229,7 @@ AssetStorage.CorePackage = function()
             local Layout = WaitForChild(NameFrame, "Layout", 3);
 
             if PlayerIcon and PlayerIcon.ClassName == "ImageLabel" then
-                PlayerIcon.Image = H07XLogo;
+                PlayerIcon.Image = TTJYLogo;
                 PlayerIcon.Size = STABLESIZE;
 
                 if InitalPadding then
@@ -12632,10 +12615,6 @@ local FreeLoad, KeyLoad = {
         File = "10512942223";
         Version = "AnimeZero_V3.11";
         Included = {"CorePackage", "LoadUILib", "IntroLib", "Windy", "ClientPackage", "CoruTask", "CommonF", "ESPPackage"};
-	[3647333358] = {
-    File = "Aimbot";
-    Version = "AimbotVault_V1.0";
-    Included = {"CorePackage", "LoadUILib", "IntroLib", "Windy", "ClientPackage", "CoruTask", "CommonF", "ESPPackage"};
     };
 };
 
@@ -12643,7 +12622,7 @@ GG.LoadFromVControl = LoadFromVControl;
 GG.LoaderSettings = LoaderSettings;
 GG.ScriptCache = ScriptCache;
 
-if (not LoaderSettings.SkipBypass) and not LoadFromVControl("https://raw.githubusercontent.com/h07x/h07xLibrary-/refs/heads/main/Apis/MultiAC.cpp", "MultiAC.cpp", "2023_ACI_2026_HyperNew")(selff, selc) then
+if (not LoaderSettings.SkipBypass) and not LoadFromVControl("https://raw.githubusercontent.com/h07x/h07xLibrary-/refs/heads/main/Apis/MultiAC.cpp", "MultiAC.lua", "2023_ACI_2026_HyperNew")(selff, selc) then
     return selff:Kick("H07X_IDAC");
 end;
 
@@ -12664,9 +12643,9 @@ local AutoInclude = function(Included)
 end;
 
 if FreeLoad[GameId] then
-    return LoadFromVControl("https://github.com/h07x/h07xLibrary-/tree/main/ListFile/" .. Resolve, Resolve, GG.CustomVersion or FreeLoad[GameId].Version)(AutoInclude(FreeLoad[GameId].Included))();
+    return LoadFromVControl("https://raw.githubusercontent.com/h07x/h07xLibrary-/main/ListFile/" .. Resolve, Resolve, GG.CustomVersion or FreeLoad[GameId].Version)(AutoInclude(FreeLoad[GameId].Included))();
 elseif KeyLoad[GameId] then
-    return LoadFromVControl("https://raw.githubusercontent.com/h07x/h07xLibrary-/refs/heads/main/Apis/K.oluac", "K.oluac", "KAuth3.87")(GG.CustomVersion or KeyLoad[GameId].Version, AssetStorage.KeyPackage, AutoInclude(KeyLoad[GameId].Included))();
+    return LoadFromVControl("https://raw.githubusercontent.com/h07x/h07xLibrary-/refs/heads/main/Apis/K.oluac", "K.lua", "KAuth3.87")(GG.CustomVersion or KeyLoad[GameId].Version, AssetStorage.KeyPackage, AutoInclude(KeyLoad[GameId].Included))();
 else
-    return LoadFromVControl("https://raw.githubusercontent.com/h07x/h07xLibrary-/refs/heads/main/ListFile/7597195391.lua.txt", "7597195391.lua", GG.CustomVersion or FreeLoad[7597195391].Version)(AutoInclude(FreeLoad[7597195391].Included))();
+    return LoadFromVControl("https://raw.githubusercontent.com/h07x/h07xLibrary-/refs/heads/main/ListFile/7597195391.lua", "7597195391.lua", GG.CustomVersion or FreeLoad[7597195391].Version)(AutoInclude(FreeLoad[7597195391].Included))();
 end;
