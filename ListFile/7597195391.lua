@@ -126,8 +126,8 @@ return {
         local LSecureUI = function()
             local WindUI = WindLib();
             local Window = WindUI:CreateWindow({
-                Title = "Universal",
-                Folder = "TTJYStudio",
+                Title = "[H07X] Universal",
+                Folder = "H07XStudio",
                 Transparent = true,
                 Theme = "Dark",
                 Acrylic = LoaderSettings.AllowAcrylicBlur,
@@ -135,7 +135,7 @@ return {
                 HasOutline = true,
                 NewElements = true,
                 OpenButton = {
-                    Title = "TTJY Hub",
+                    Title = "H07X Hub",
                     CornerRadius = UDim.new(1,0),
                     StrokeThickness = 3,
                     Enabled = true,
