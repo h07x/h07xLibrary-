@@ -15,12 +15,12 @@
     Discord: https://discord.gg/ftgs-development-hub-1300692552005189632
     License: MIT
     
-██╗░░██╗░█████╗░███████╗██╗░░██╗  ██╗░░██╗  ░██████╗████████╗██╗░░░██╗██████╗░██╗░█████╗░░██████╗
-██║░░██║██╔══██╗╚════██║╚██╗██╔╝  ╚██╗██╔╝  ██╔════╝╚══██╔══╝██║░░░██║██╔══██╗██║██╔══██╗██╔════╝
-███████║██║░░██║░░░░██╔╝░╚███╔╝░  ░╚███╔╝░  ╚█████╗░░░░██║░░░██║░░░██║██║░░██║██║██║░░██║╚█████╗░
-██╔══██║██║░░██║░░░██╔╝░░██╔██╗░  ░██╔██╗░  ░╚═══██╗░░░██║░░░██║░░░██║██║░░██║██║██║░░██║░╚═══██╗
-██║░░██║╚█████╔╝░░██╔╝░░██╔╝╚██╗  ██╔╝╚██╗  ██████╔╝░░░██║░░░╚██████╔╝██████╔╝██║╚█████╔╝██████╔╝
-╚═╝░░╚═╝░╚════╝░░░╚═╝░░░╚═╝░░╚═╝  ╚═╝░░╚═╝  ╚═════╝░░░░╚═╝░░░░╚═════╝░╚═════╝░╚═╝░╚════╝░╚═════╝░
+██╗░░██╗░█████╗░███████╗██╗░░██╗
+██║░░██║██╔══██╗╚════██║╚██╗██╔╝
+███████║██║░░██║░░░░██╔╝░╚███╔╝░
+██╔══██║██║░░██║░░░██╔╝░░██╔██╗░
+██║░░██║╚█████╔╝░░██╔╝░░██╔╝╚██╗
+╚═╝░░╚═╝░╚════╝░░░╚═╝░░░╚═╝░░╚═╝
 
     v3.0.2  |  2026-10-10  |  Roblox Script
     
@@ -30,7 +30,13 @@
     Website: https://h07x-new.vercel.app/
     YouTube: mk.h07x
     License: ND ( No Derivatives )
-    
+░█████╗░███╗░░░███╗░█████╗░██████╗░███████╗████████╗░░██╗░░██╗░░██╗
+██╔══██╗████╗░████║██╔══██╗██╔══██╗██╔════╝╚══██╔══╝░███║░██╔╝░░██║
+██║░░██║██╔████╔██║███████║██████╔╝█████╗░░░░░██║░░░░╚██║██╔╝░░░██║
+██║░░██║██║╚██╔╝██║██╔══██║██╔══██╗██╔══╝░░░░░██║░░░░░██║███████╗██║
+╚█████╔╝██║░╚═╝░██║██║░░██║██║░░██║██║░░░░░░░░██║░░░░░██║╚════██║╚═╝
+░╚════╝░╚═╝░░░░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░░░░░░░╚═╝░░░░░╚═╝░░░░░╚═╝░░░
+
      _____ ____  
      |_   _|  _ \ 
        | | | |_) |
@@ -1949,26 +1955,26 @@ AssetStorage.KeyPackage = function()
                 G2L["45"].Transparency          = NSnew{NSKnew(0.000, 0),NSKnew(1.000, 1)};
         
             G2L["26"].Activated:Connect(function()
-                G2L["1"]:Destroy(); G2L["1"] = nil;
-                G2L = nil;
-            end); G2L["11"].Activated:Connect(function()
-                G2L["1"]:Destroy(); G2L["1"] = nil;
-                G2L = nil;
-                return setc("https://pandadevelopment.net/getkey/ttjyhub?hwid="..gethwid());
-            end); G2L["1a"].Activated:Connect(function()
-                G2L["1"]:Destroy(); G2L["1"] = nil;
-                G2L = nil;
-                return setc("https://pandadevelopment.net/getkey/ttjyhub?hwid="..gethwid());
-            end); G2L["31"].Activated:Connect(function()
-                G2L["1"]:Destroy(); G2L["1"] = nil;
-                G2L = nil;
-                return setc("https://ttjy-studio.vercel.app/bugs");
-            end); G2L["3a"].Activated:Connect(function()
-                G2L["1"]:Destroy(); G2L["1"] = nil;
-                G2L = nil;
-                return setc("https://ttjy-studio.vercel.app/scripts");
-            end);
-        
+            G2L["1"]:Destroy(); G2L["1"] = nil;
+            G2L = nil;
+        end); G2L["11"].Activated:Connect(function()
+            G2L["1"]:Destroy(); G2L["1"] = nil;
+            G2L = nil;
+            return setc("https://pandadevelopment.net/getkey/h07x?hwid="..gethwid());
+        end); G2L["1a"].Activated:Connect(function()
+            G2L["1"]:Destroy(); G2L["1"] = nil;
+            G2L = nil;
+            return setc("https://pandadevelopment.net/getkey/h07x?hwid="..gethwid());
+        end); G2L["31"].Activated:Connect(function()
+            G2L["1"]:Destroy(); G2L["1"] = nil;
+            G2L = nil;
+            return setc("https://h07x-new.vercel.app/bugs");
+        end); G2L["3a"].Activated:Connect(function()
+            G2L["1"]:Destroy(); G2L["1"] = nil;
+    G2L = nil;
+            return setc("https://h07x-new.vercel.app/scripts");
+        end);
+-- // Soon Website god
             return G2L;
         end;
         new = function(arg)
@@ -12615,10 +12621,6 @@ local FreeLoad, KeyLoad = {
         File = "10512942223";
         Version = "AnimeZero_V3.11";
         Included = {"CorePackage", "LoadUILib", "IntroLib", "Windy", "ClientPackage", "CoruTask", "CommonF", "ESPPackage"};
-	[77747658251236] = {
-		File = "2946294653"
-		Version = "Sailor_Piece
-		Included = {"CorePackage", "LoadUILib", "IntroLib", "Windy", "ClientPackage", "CoruTask", "CommonF", "ESPPackage"};
     };
 };
 
